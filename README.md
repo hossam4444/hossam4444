@@ -9,16 +9,16 @@
 
 ### Glad to see you here 😀
 
-I am a Software Engineer who started his software career in 2019 by developing simple ERP systems, After graduating with a bachelor's degree in Commerce, with my Technical knowledge I Worked as an ERP Developer @ [ABC](https://abcsuppor.abcsoftwa.com/) Software Using Odoo, Linux, Docker, Aws, HTML, and CSS. later on, I was accepted at the Information Technolgy Institute ([ITI](https://iti.gov.eg/home)) to graduate with experience in Full Stack Web Development using MERN, then to work as a Software Engineer @ [Egabee](https://www.egabee.com/) responsible for building and developing the backend using Rust, TypeScript, PostgreSQL, and some tools and frameworks like Node.js, ActixWeb, Kafka, docker, AWS.
+I am a Software Engineer who started his software career in 2019 by developing simple ERP systems, After graduating from college, with my Technical knowledge as a Self Study I Worked as an ERP Developer @ [ABC Software](https://abcsuppor.abcsoftwa.com/) Using Odoo, Linux, Docker, Aws, HTML, and CSS. later on, I was accepted at the Information Technolgy Institute ([ITI](https://iti.gov.eg/home)) to graduate with experience in Full Stack Web Development using MERN, then to work as a Software Engineer @ [Egabee](https://www.egabee.com/) to be responsible for building and developing the backend using Rust, NodeJS, TypeScript, PostgreSQL and later migrated to ScyllaDB, and some tools and frameworks like Express.js, ActixWeb, Kafka, docker, AWS, and finally involved in developing our Next.js FrontEnd ... and I loved it.
 
 I am always enthusiastic to create high-performing and scalable software solutions that meet business objectives and exceed expectations.
 
-I believe decentralization is essential to reach the next level as a human species. This is why I have focused on web3 in the past year, specifically the Ethereum ecosystem, programming in Rust.
+I believe decentralization is essential to reach the next level as a human species. This is why I have focused on web3 in the past year, specifically the Ethereum ecosystem, and programming in Rust. 
 <br/>  
 
 
 ## Rapidfire  
-- 🐞 I am currently working for [Egabee](https://www.egabee.com/) as a BackEnd Developer focusing on the web3.
+- 🐞 I am currently working for [Egabee](https://www.egabee.com/) as a Full Stack Developer and focusing on our BackEnd distributed system.
 
 <br/>  
 
