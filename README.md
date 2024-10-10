@@ -41,10 +41,10 @@ I believe decentralization is essential to reach the next level as a human speci
 <a title="ScyllaDB" href="https://www.scylladb.com/" target="_blank" rel="noreferrer" style="margin-right: 7px;"> <img src="https://www.scylladb.com/wp-content/uploads/scylla-opensource-1.png" alt="ScyllaDB" width="40" height="60"/></a>
 <a title="MongoDB" href="https://www.mongodb.com/" target="_blank" rel="noreferrer" > <img src="https://seeklogo.com/images/M/mongodb-logo-3659963037-seeklogo.com.png" alt="mysql" width="120" height="40"/></a>
 <a title="mysql" href="https://www.mysql.com/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></a>
- </p>
  
  <a title="CSS 3" href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
 <a title="HTML 5" href="https://www.w3.org/html/" target="_blank" rel="noreferrer" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
 <a title="tailwindcss" href="https://tailwindcss.com/" target="_blank" rel="noreferrer" style="margin-right: 7px;"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/></a>
 <a title="bootstrap" href="https://getbootstrap.com/" target="_blank" rel="noreferrer" > <img src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo-300x240.png" alt="bootstrap" width="40" height="40"/></a>
+ </p>
  </p>
