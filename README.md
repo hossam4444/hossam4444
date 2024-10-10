@@ -18,7 +18,7 @@ I believe decentralization is essential to reach the next level as a human speci
 
 
 ## Rapidfire  
-- 🐞 I am currently working for [Egabee](https://www.egabee.com/) as a Full Stack Developer and focusing on our BackEnd distributed system.
+- 🦾 I am currently working for [Dev Global](https://www.egabee.com/) as a BackEnd Software Engineer.
 
 <br/>  
 
