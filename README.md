@@ -9,16 +9,27 @@
 
 ### Glad to see you here 😀
 
-I am a Software Engineer who started his software career in 2019 by developing simple ERP systems. After graduating from college, with my Technical knowledge as a self-study, I worked as an ERP Developer @ [ABC Software](https://abcsuppor.abcsoftwa.com/) using Odoo, Linux, Docker, AWS, HTML, and CSS. later on, I was accepted at the Information Technolgy Institute ([ITI](https://iti.gov.eg/home)) to graduate with experience in Full Stack Web Development using MERN, then to work as a Software Engineer @ [Egabee](https://www.egabee.com/) to be responsible for building and developing the backend using Rust, NodeJS, TypeScript, PostgreSQL, and later migrated to ScyllaDB. also tools and frameworks like Express.js, ActixWeb, Kafka, Docker, and AWS. Later, I joined [Dev Global](https://www.egabee.com/), a great Software House based in Alabama, USA.
+I’m a Mid‑Level Software Engineer with a backend focus. Since starting my software career in 2021, I've built scalable, high‑performance systems—from ERP solutions to real‑time web services. 
+<br/>  
+After graduating from college, with my Technical knowledge as a self-study, I worked as a Software Developer @ [ABC Software](https://abcsuppor.abcsoftwa.com/) developing ERP Solutions using Odoo, Linux, Docker, AWS, HTML, and CSS. later on, I was accepted at the Information Technolgy Institute ([ITI](https://iti.gov.eg/home)) to graduate with experience in Full Stack Web Development using MERN, then to work as a Software Engineer @ [Egabee](https://www.egabee.com/) to be responsible for building and developing the backend using Rust, NodeJS, TypeScript, PostgreSQL, and later migrated to ScyllaDB. also tools and frameworks like Express.js, ActixWeb, Kafka, Docker, and AWS. Later, I joined [Dev Global](https://www.egabee.com/), a Software House that builds SAAS based in Alabama, USA, and now @ [Uvera](https://www.uvera.co/), building government-grade solutions to increase the shelf-life of
+fresh produce and trace at all stages (using Blockchain, AI Agents), projects that helped clients like Morgan Stanley USA, Aramco Lab 7 KSA, Careem KSA.
 
 I am always enthusiastic to create high-performing and scalable software solutions that meet business objectives and exceed expectations.
 
-I believe decentralization is essential to reach the next level as a human species. This is why I have focused on web3 in the past year, specifically the Ethereum ecosystem and programming in Rust. 
+🛠️ Tech Stack Highlights:
+• Backend: Rust, Node.js, ActixWeb, Express.js, Nest, Kafka  
+• Databases: PostgreSQL, MongoDB, ScyllaDB  
+• DevOps: Docker, Linux, AWS  
+• Blockchain & Web3: Ethereum, Rust  
+• AI & AI Agents: exploring integrations and automation, MCP, A2A
 <br/>  
 
 
 ## Rapidfire  
-- 🦾 I am currently working for [Dev Global](https://www.egabee.com/) as a BackEnd Software Engineer.
+- Formerly at Dev Global, Egabee, and ABC Software, and an ITI graduate.
+- 🦾 Currently, I am a Mid-Level Software Engineer @ Uvera.
+- I’m passionate about high-performance architectures and empowering solutions with AI.
+
 
 <br/>  
 
